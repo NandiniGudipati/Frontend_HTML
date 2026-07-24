@@ -1,0 +1,28 @@
+.navbar-brand{
+    width:20%;
+}
+.navbtn{
+    border-radius: 25px;
+    font-weight:bold;
+    border-bottom-right-radius: 5px;
+    font-size: 20px;
+}
+.navbar{
+    margin-left: 60px;
+    margin-right: 20px;
+    text-align: center;
+}
+.footer_bar{
+    background-color: #020101;
+    justify-content: space-between;
+    padding:70px;
+
+}
+.con_all{
+    
+    
+}
+.c_1 h5{
+    margin-bottom: 20px;
+    
+}
